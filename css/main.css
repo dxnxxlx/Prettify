@@ -1,0 +1,136 @@
+body p, span, li, h1 {
+	font-family: 'Oswald', sans-serif;
+}
+
+header {
+	border-bottom: 1px solid #867986;
+	padding: 20px;
+}
+
+header li {
+	list-style: none;
+	display: inline-block;
+	padding: 0px 20px;
+}
+
+
+.foto {
+	background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    padding-bottom: 120px;
+    background-position: 0% 13%;
+}
+
+.fotocentro img {
+	margin-bottom: 20px;
+}
+.fotocentro p{
+	color: white;
+	margin-top: 20px;
+	
+}
+
+
+.titulo1 {
+	font-size: 50px;
+	font-weight: bold;	
+}
+
+.sub1 {
+	font-size: 25px;
+}
+
+
+.pad {
+	padding-top: 70px;
+	padding-bottom: 80px;
+}
+
+
+.titulo2 {
+	font-size: 30px;
+	margin-bottom: 25px;
+
+}
+
+.favourite {
+
+}
+.sub2 {
+font-size: 18px;
+padding-bottom: 25px;
+}
+
+.morado {
+	color: #A8258D;
+}
+
+.about {
+	background-image: url("../images/tile1.png");
+    background-repeat: repeat;
+
+}
+
+
+.perfil img {
+	width: 98%;
+}
+
+.perfil {
+	width: 20%;
+	margin-right: 20px;
+}
+
+.perfil, .parrafo {
+	display: inline-block;
+}
+
+.parrafo {
+	width: 75%;
+	margin-top: -300px;
+}
+
+.parrafo p{
+	font: normal 14px Arial;
+	color: #6D6E71;
+	line-height: 140%;
+	margin-top: -100px,
+}
+
+
+.borde {
+	padding: 3px;
+	border: 1px solid gray;
+	
+}
+
+.gatos {
+	width: 95%;
+	padding-right: auto;
+	padding-left: auto;
+	margin-left: 5%;
+}
+.circulo {
+	border-radius: 100%;
+	border-color: #A8258D;
+	border-bottom-style: none;
+	width: 90%;
+}
+
+.contact{
+	background-image: url("../images/tile2.png");
+    background-repeat: repeat;
+}
+
+
+.contact img {
+	width: 12%;
+
+}
+
+.centro {
+	margin-right: 3%;
+	margin-left: 3%;
+}
+
